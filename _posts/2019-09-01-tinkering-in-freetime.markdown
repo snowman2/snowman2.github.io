@@ -2,7 +2,7 @@
 layout: post
 title:  "Tinkering on pyproj: The CRS class"
 date:   2019-09-01 23:01:06 -0500
-categories: pyproj
+categories: open-source pyproj crs
 ---
 
 Ever since my beginnings with the python open source ecosystem, I have constantly
